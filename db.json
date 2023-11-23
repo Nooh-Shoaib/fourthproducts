@@ -104,18 +104,18 @@
       ]
     },
     {
-      "slug": "custom-cigarette-boxes",
-      "id": "custom-cigarette-boxes",
-      "productTitle": "Custom Cigarette Boxes",
+      "slug": "cbd-concentrate-boxes",
+      "id": "cbd-concentrate-boxes",
+      "productTitle": "Custom CBD Concentrate Boxes",
       "description": [
         {
-          "descriptionHeading": "Attractive Custom Cigarette Boxes",
-          "descriptionText": "Everyone is saying that smoking is injurious to health"
+          "descriptionHeading": "Boost Visuals with Our Custom CBD Concentrate Boxes",
+          "descriptionText": "Most of the hemp items and products are circulated the globe secure CBD Concentrate Packaging."
         }
       ],
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2003.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1645124719cbd-concentrate-boxes-SirePrinting.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1645124770cbd-concentrate-boxes-SirePrinting%2002.png-gallery2"
       ],
       "specifications": [
         {
@@ -129,24 +129,14 @@
       ],
       "relatedProducts": [
         {
-          "slug": "cbd-pre-rolls-boxes",
-          "productTitle": "CBD Pre Rolls Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2001.png"
+          "slug": "vape-accessories-boxes",
+          "productTitle": "Vape Accessories Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836895Vape-Accessories-Boxes-SirePrinting%2001.png"
         },
         {
-          "slug": "pod-vape-boxes",
-          "productTitle": "Pod Vape Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836715Pod-Vape-Boxes-SirePrinting%2001.png"
-        }
-      ],
-      "relatedBlogs": [
-        {
-          "slug": "",
-          "blogTitle": "Unveiling The Ultimate Pre Roll Packaging Solutions!",
-          "blogdate": "02 Nov",
-          "blogtext": "In the world of cannabis and tobacco products, packaging plays a significant role in brand recognition, product protection...",
-          "bloglink": " CBD Packaging",
-          "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697676820-unveiling-the-ultimate-pre-roll-packaging-solutions.avif"
+          "slug": "Luxury Cigar Boxes",
+          "productTitle": "Luxury Cigar Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632954735luxury%20cigar%20boxes%20Sire%20Printing%2001.png"
         }
       ]
     },
