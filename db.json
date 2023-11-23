@@ -1,12 +1,10 @@
 {
   "products": [
     {
-    "linkTitle" : "CBD Packaging",
-      "link" : "Home"
-    },
-    {
       "slug": "cbd-roll-on-boxes",
       "id": "cbd-roll-on-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
       "productTitle": "Custom CBD Roll On Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627830290CBD-Roll-On-Boxes-SirePrinting%2002.png-gallery1",
