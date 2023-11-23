@@ -46,6 +46,8 @@
     {
       "slug": "child-resistant-boxes",
       "id": "child-resistant-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
       "productTitle": "Custom Child Resistant Cannabis Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627830624Child-Resistant-Boxes-SirePrinting%2002.png-gallery1",
@@ -82,6 +84,8 @@
     {
       "slug": "custom-cannabis-boxes",
       "id": "custom-cannabis-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
       "productTitle": "Custom Cannabis Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627830764Custom-Cannabis-Boxes-SirePrinting%2002.png-gallery1",
@@ -108,6 +112,8 @@
     {
       "slug": "cbd-concentrate-boxes",
       "id": "cbd-concentrate-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
       "productTitle": "Custom CBD Concentrate Boxes",
       "description": [
         {
@@ -145,6 +151,8 @@
     {
       "slug": "custom-hemp-boxes",
       "id": "custom-hemp-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
       "productTitle": "Custom Hemp Boxes",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2002.png-gallery1",
@@ -182,6 +190,8 @@
     {
       "slug": "custom-pre-rolled-cones-boxes",
       "id": "custom-pre-rolled-cones-boxes",
+      "linkTitle" : "CBD Packaging",
+      "link" : "Home",
       "productTitle": "Custom Pre Rolled Cones Boxes USA",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1627831709Pre-Rolls-Cones-Boxes-SirePrinting%2002.png-gallery1",
