@@ -141,12 +141,12 @@
       ]
     },
     {
-      "slug": "cannabis-blunt-boxes",
-      "id": "cannabis-blunt-boxes",
-      "productTitle": "Custom Cannabis Blunt Boxes",
+      "slug": "custom-hemp-boxes",
+      "id": "custom-hemp-boxes",
+      "productTitle": "Custom Hemp Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627777706Cannabis--Blunt-Boxes-SirePrinting%2002.png-gallery1",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627777706Cannabis--Blunt-Boxes-SirePrinting%2003.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2003.png-gallery2"
       ],
       "specifications": [
         {
@@ -160,30 +160,30 @@
       ],
       "relatedProducts": [
         {
-          "slug": "cbd-bath-bomb-boxes",
-          "productTitle": "CBD Bath Bomb Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png"
+          "slug": "cbd-candy-boxes",
+          "productTitle": "CBD Candy Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778736CBD-Candy-Boxes-SirePrinting-01.png"
         },
         {
-          "slug": "Custom Hemp Boxes",
-          "productTitle": "Custom Hemp Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2001.png"
+          "slug": "CBD Concentrate Boxes",
+          "productTitle": "CBD Concentrate Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627830898CBD-Concentrate-Boxes-SirePrinting%2001.png"
         }
       ],
       "description": [
         {
-          "descriptionHeading": "Blunt Boxes",
-          "descriptionText": "Snuff ends the craving of smokers by relaxing their brains and alleviating the worry. "
+          "descriptionHeading": "Artistically Manufactured Custom Printed Hemp Boxes in the USA with Extra Allure",
+          "descriptionText": "Imagination is an essential part of marketing; when it comes to packaging products, it is imperative."
         }
       ]
     },
     {
-      "slug": "cannabis-display-boxes",
-      "id": "cannabis-display-boxes",
-      "productTitle": "Custom Cannabis Display Boxes",
+      "slug": "custom-pre-rolled-cones-boxes",
+      "id": "custom-pre-rolled-cones-boxes",
+      "productTitle": "Custom Pre Rolled Cones Boxes USA",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-04.png-gallery3",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-05.png-gallery4"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627831709Pre-Rolls-Cones-Boxes-SirePrinting%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627831710Pre-Rolls-Cones-Boxes-SirePrinting%2004.png-gallery3"
       ],
       "specifications": [
         {
@@ -197,23 +197,30 @@
       ],
       "relatedProducts": [
         {
-          "slug": "cbd-gummies-boxes",
-          "productTitle": "CBD Gummies Boxes",
-          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1602200995/cbd-gummies-boxes.png"
+          "slug": "cannabis-display-boxes",
+          "productTitle": "Cannabis Display Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-02.png"
         },
         {
-          "slug": "cbd-chocolate-boxes",
-          "productTitle": "CBD Chocolate Boxes",
-          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640139160CBD%20Chocolate%20Boxes%20Sire%20Printing%2001.png"
+          "slug": "custom-cigarette-boxes",
+          "productTitle": "Custom Cigarette Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png"
         }
-      ],
-      "relatedPortfolio": [
-        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697594876-cbd-gummies-display-boxes-sire-printing.avif"
       ],
       "description": [
         {
           "descriptionHeading": "Shiny And Glossy Custom Cannabis Display Boxes ",
           "descriptionText": "Custom Cannabis Boxes play a vital role in product sales and purchase."
+        }
+      ],
+      "relatedBlogs": [
+        {
+          "slug": "",
+          "blogTitle": "Unveiling The Ultimate Pre Roll Packaging Solutions!",
+          "blogdate": "19 Oct",
+          "blogtext": "In the world of cannabis and tobacco products, packaging plays a significant role in brand recognition, product protection...",
+          "bloglink": "CBD Packaging",
+          "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697676820-unveiling-the-ultimate-pre-roll-packaging-solutions.avif"
         }
       ]
     }
