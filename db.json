@@ -1,14 +1,4 @@
 {
-   "stars": [
-    {
-      "id": 1,
-      "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'><path d='M530.6...'></path></svg>"
-    },
-    {
-      "id": 2,
-      "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'><path d='M530.6...'></path></svg>"
-    }
-  ],
   "products": [
     {
       "slug": "cbd-roll-on-boxes",
