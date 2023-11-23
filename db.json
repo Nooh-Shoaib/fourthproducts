@@ -1,6 +1,10 @@
 {
   "products": [
     {
+    "linkTitle" : "CBD Packaging",
+      "link" : "Home"
+    },
+    {
       "slug": "cbd-roll-on-boxes",
       "id": "cbd-roll-on-boxes",
       "productTitle": "Custom CBD Roll On Boxes",
